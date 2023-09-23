@@ -1,0 +1,298 @@
+Maharudra Bharati--14 may 2022 Java Batch
+
+Company- Synoric
+-45 min - 1 program😢
+
+alent Acquisition Team @Synoriq3:03 PM
+Write a function:
+class Solution { public int solution(int[] A); }
+that, given an array A of N integers, returns the smallest positive integer (greater than 0) that does not occur in A.
+For example, given A = [1, 3, 6, 4, 1, 2], the function should return 5.
+Given A = [1, 2, 3], the function should return 4.
+Given A = [−1, −3], the function should return 1.
+=====================================================================================================
+
+Company-PWC
+
+-what is Session
+-what SessionFactory
+-what is diff between Session and Session Factory
+-what is arraylist 
+-what is linked list
+-Diff between arraylist and linked list
+-Spring boot class level annotation
+-method level annotation
+-spring boot flow
+-@RequestMapping
+-Diff between @PutMapping and @PostMapping
+-Object class method
+-can we override hashcode 
+-why duplicate not allowed in Hashmap
+===============================================================================
+
+Company-INUXU
+
+-Exception hierarchy
+-Second level cache
+-flow of project
+-Architecture of project
+-snipet on exception
+-Program on hashmap
+-@EnableMVC
+-SLDC
+-HTML
+-jsp
+-servlet
+
+Round-2nd
+
+-explain ur project
+-they give me one condition on particular module
+-what is collect
+-what compatible
+-what is concurrent hashmap
+-second level cache
+-singleton design patterns
+===============================================================================
+
+Company- Accellya Solution
+Interview-Telephonic
+
+-which technology you use in ur project
+-sts version
+-which dependencies u added in ur spring boot app
+-diff way to added dependencies
+=====================================================================================
+
+-Inroduction
+-which technology you use in ur project
+-what is dynamic dispatch
+-One practical example on dynamic dispatch
+
+That's it
+==================================================================================
+
+Company- Amdocs
+
+-introduce yourself with ur roles and responsiblity
+-Explain ur project
+-Explain all spring boot annotation
+-what are the main annotation in spring bolt
+-What is @Id and @Value
+-explain life cycle of spring MVC
+-Eureka secret
+-can we override tomcat server
+-what is diff between monolithic and microservice
+-which operation we perform in spring voor
+-functional interface
+-explain static keyword
+-how to handle exception
+-what is the exact different between throw and throws
+-how we acheive multithreading
+-Diff between overloading and overriding
+-can we override constructor
+-can we apply static to constructor
+-2-3 microservice related question
+-2-3 question on during
+-tell me diff joints
+-java 1.8 features
+-explain custom exception and global exception
+-any other way to handle exception
+=================================================================================
+Maharudra Bharati--14 may 2022 Java Batch
+
+Most Asked Question(I gave 50 Interview within 1.5 months-->All Question)
+
+diff between jdk jre jvm
+what is class loader & its types
+what is rt.jar file
+what is heap and stack
+where we store static variable 
+what is meomery management in java 
+explain static keyword
+can we create instance of static class--> Ans.static not allowed to class-->illegal access modifier compile error
+create static constructor-->Ans. static not allowed to constructor
+explain access modifier-->default private protected public
+diff between static and final keyword
+expalin final keyword
+diff between method overloading vs override-->10-12 times ask for me
+can we write two method with same method name and same argument but diff return type
+diff between static binding vs dynamic binding
+explain static initializer---> Ans-->static block(dont confuse)
+Opps concept--> in 50 interview only in three interviewer ask for me
+diff between abstract class vs interface--> 20 times ask
+explain object class with 11 method
+can we overload hashcode
+explain wraperclass in details
+what is thread
+how we achieve multitreading
+what happpen we write two time start method in multithreading
+which method implements during multithreading
+explain life cycle of thread
+what is synchronization
+can we write synchronize method two time in same method
+how we execute thread one by one
+explain exception heirarchy
+can we use try without catch block
+can we use only try block
+can we use try with multiple finally block
+tell me one condition where finally is not executed-->Ans.when jvm exit(e.g--> put in try-->system.exist(0);)
+can we use try with multiple catch block
+diff between throw and throws---lot of tie ask
+can we write throw keyword in method signature
+how u handle exception in ur project
+when we use throw that time can we also use try and catch together
+custom exception with practicle-->25-26 time ask
+diff between class not found exception and class defound exception
+in ur project which types exception u faced
+diff between serialization and deserialization
+explain transient keyword
+what is marker interface
+string in details
+why string is immutable 
+diff between string and string buffer
+diff between stringbuffer vs stringbuilder
+how many object is create during string literal and using new-->heap,scp
+== operator
+string class equal method
+which collection u use in ur project
+Array in detail
+diff between Array and collection
+collection heirarchy
+internal implemention Arraylist
+internal implemention hashset
+internal implemention hashmap
+diff between hashset and treeset
+diff between list and set
+diff between hashmap and concurenthashmap-->10 time ask
+diff between hashmap and  hashtable--> 8-9 times ask
+diff between map and list
+what is load factor
+diff between fail fast and fail safe
+-----------------------------------------------------------------------------------
+diff between primary key and unique key
+diff between primary key and foreign key
+what is group by id
+explain composite key
+explain join,inner,left,right join
+write third highest salary query
+write frist highest salary query
+write third lowest salary query
+write query whoes age is less than 40 and but they are active
+write query and fetch 10 record from 2nd highest salary in one/in single query
+explain store procedure
+------------------------------------------------------------------------------
+what is collable statement
+what is servlete and jsp
+explain internal working of servlete
+diff between get and post in servlete
+-----------------------------------------------------------------------------
+ 
+what is hibernate 
+explain advantage of hibernate over jdbc
+what is orm
+diff between session factory and session
+diff between frist level cache and second level cache
+diff between save and persists method
+diff between get and load method
+explain cache
+explain session
+what transaction
+explain hibernate annoatation
+
+-----------------------------
+explain spring framework
+explain spring
+explain spring mvc/internal working
+what is dependency injection 
+explain @Autowired 
+@Required annotation
+@Bean
+explain Stereotype Annotation
+explain mapping types
+where u use hibernate in ur project
+-------------------------------------
+what is spring boot
+which spring boot verson u use-->2.5.0
+tell me spring boot annotation
+explain spring boot flow
+explain architecture of spring boot
+Diff between @Controller and @RestController
+Diff between @RequestMapping and @GetMapping
+Diff between @GetMapping and @PutMapping,@PostMapping
+what is profile 
+explain @SpringBootApplitation
+@Transactional
+@EnableCache
+explain swagger
+explation actuator
+have u work on junit and log4j
+explain jason
+explain RestAPI
+diff between SOAP and RestAPI
+@Enject
+lombok project
+----------------------------------
+1.8 features 
+
+which java verson u use-->1.8
+explain 1.8 features
+what is functional interface 
+diff between consumer and supplier
+diff between consumer and biconsumer
+what is predicate
+explain stream api method and they ask prictical example
+
+=================================================================
+
+coding part/ practical example ask in interview
+
+
+reverse string
+palindrome string
+custom exception class
+Array Occurance 
+Array Occurance without using hashmap
+String Occurance
+String Occurance without using hashmap
+strim api problems
+create RestApi
+lot of problem on collection speciallay Arraylist,hashmap,comparable and comparator problems
+iterate hashmap
+sort hashmap,arraylist without using treeset,sort method,treemap
+
+========================================================================
+
+2nd Try --> my exp --> Mindgate Solution-->10/02/20233
+
+
+
+1)Relience Jio-->1st round-->15/02/2023--Qualified in second round
+
+-explain ur project in details
+-how we connect two database in one application
+-how we call url in repo which is present in app.property
+-which annotation are use in ur project-->explain all
+-@Qualifier 
+-explain Swagger
+-what are the type of polymorphsim
+-how we change jdk version
+-how we create custom exception
+-what is diff between throw and throws
+-they asking about postman and swagger unit testing tool
+-ask about configuration class
+-diff between singleton class and singleton bean
+-apache kafka
+
+=======================================================
+Write a Java program to iterate through all elements in a linked list 
+based on the position given through input. The program has to throw an
+ exception if the position given is incorrect.
+
+
+
+
+
+
+
+

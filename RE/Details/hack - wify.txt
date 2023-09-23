@@ -1,0 +1,6 @@
+netsh wlan show profile
+netsh wlan show profile name = OPPO A54 key-clear
+
+
+clean virus 
+ipconfig/flushdns 

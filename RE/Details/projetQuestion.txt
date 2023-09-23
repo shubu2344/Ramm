@@ -1,0 +1,72 @@
+Can you elaborate on the specific functionalities of the "Intact" project?
+
+This question aims to understand the depth of your involvement in the project and your understanding of its core features and goals.
+How do you ensure the security of sensitive customer information in your application?
+
+Here, the interviewer is interested in your awareness of security practices, especially crucial in the insurance domain where sensitive data is involved.
+Can you explain how Spring MVC and Hibernate are integrated into your project architecture?
+
+This question assesses your knowledge of the technologies you mentioned and how effectively you're using them in your project.
+Could you share an example of a particularly challenging bug you encountered and how you resolved it?
+
+This question gauges your problem-solving skills and your ability to handle unexpected challenges in the development process.
+How do you handle concurrent user interactions in your RESTful web services?
+
+This question delves into the scalability and performance considerations of your web services.
+What strategies do you use to ensure effective communication and collaboration within your development team?
+
+This question explores your teamwork and communication skills, which are crucial in a project with multiple developers.
+How do you prioritize and manage user requirements when there are changes or additions during the development phase?
+
+This question evaluates your adaptability and project management skills in a dynamic development environment.
+Can you explain how you perform testing in your project? Are there any plans for test automation?
+
+This question assesses your approach to quality assurance and your awareness of industry best practices.
+What challenges do you foresee in terms of integrating the "Intact" application with other systems or platforms?
+
+This question tests your foresight and your ability to anticipate potential hurdles in the development process.
+How do you ensure that the application remains compliant with relevant insurance regulations and policies?
+
+This question examines your understanding of the regulatory aspects that come into play in the insurance domain.
+Could you provide an example of a situation where you had to optimize the performance of a specific component in your application?
+
+This question evaluates your ability to optimize code and address performance bottlenecks.
+Can you discuss any experiences where you've had to adapt to changes in project requirements or timelines?
+
+This question assesses your flexibility and how well you handle shifting project dynamics.
+Remember, the aim of these cross-questions is to not only evaluate your technical skills but also to gauge your problem-solving abilities, communication skills, teamwork, and adaptability – all of which are vital in a dynamic software development environment like yours.
+
+==============================================================================================================
+Certainly, here's a simpler version of the challenging bug example and its resolution:
+
+Challenging Bug:
+In our "Intact" project, sometimes when users changed their insurance policies on the website, the new data didn't always update correctly in the system. The bug was hard to figure out because it didn't happen all the time.
+
+How We Fixed It:
+
+Finding Clues: We looked closely at when the problem happened and collected information about what users were doing when the issue occurred.
+
+Checking the Code: We checked the parts of the code responsible for processing the changes users made. This included the programming for handling user requests, the parts that talk to the database, and the parts that connect the website to the system.
+
+Tracking Down the Problem: We started putting detailed notes in the code to see what was happening step by step when users changed their policies.
+
+Figuring Out a Pattern: Even though the bug didn't happen every time, we noticed that it seemed to pop up more often when many users changed things at once.
+
+Testing and Looking Closer: We tried doing things in a way that made the bug happen more. This helped us see that when lots of changes were happening at the same time, they sometimes got mixed up.
+
+Making a Change: To fix this, we added something to the code that made sure only one change was dealt with at a time. This way, changes didn't get confused anymore.
+
+Trying It Out: After making this change, we tested everything again and paid attention to what the system and website were doing.
+
+Getting Users' Opinions: We asked some users to test the website and see if the bug was really gone. They tried it out, and the problem didn't happen anymore.
+
+The Result:
+By finding out how changes were getting mixed up and putting in a rule that made sure changes happened one at a time, we stopped the problem from happening. The system worked better, and users could make policy changes without worrying about wrong updates.
+
+
+
+
+
+
+
+

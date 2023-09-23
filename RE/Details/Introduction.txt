@@ -1,0 +1,15 @@
+
+
+First of all, thank you for this opportunity. My name is Shubham Mondhoriya and I am currently working as 
+a Java developer at E-bio Tech Indian Private Ltd. I have 1.5 years of experience in Java development,
+during which I have worked with various technologies such as Spring, Spring Boot, Hibernate, Java, and MySQL
+
+I am currently working on a project called "Intact" in the insurance domain for our client,
+ Ethias, from Europe. Our technology stack includes HTML and CSS for the front-end and Core 
+Java, Spring MVC, Hibernate, and MySQL for the back-end. To maintain our codebase, we use GitHub,
+ and all our applications are Maven-based.
+"I am a Java developer on a team of 10 developers responsible for both front-end and
+ back-end development. My primary responsibilities include creating various pojo classes,
+ implementing RESTful web services, working on CRUD operations, handling exceptions, 
+ and writing MySQL queries such as joins. In addition, I collaborate with the testing 
+ team to ensure a smooth delivery process."

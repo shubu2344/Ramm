@@ -1,0 +1,46 @@
+Currently, I am working On a Project name "intact", Domain is "insurance" and the client name is Ethias 
+from Europ if we are talking about stack technology in my project. at the front end side, we are using 
+HTML, CSS, and Back end team side we are using core java, spring mvc, as well as hibernate, and database
+ we are using MySQL.then talking about tools and technology to maintain the repository we are using GitHub 
+and all our application are maven applicationnow in my current project, we have a team of 10 developers we
+ are managing the front end as well as the back end.then roles and responsibilities I am working as a java 
+developer in my team I am creating the various classes, andproducing the restful web services. and we perform 
+the manual testing and fix the bugs then manage the user requirement providing timely project updates then 
+coordinating with the testing team 
+=================================================================================================================
+I am currently working on a project called "Intact" in the insurance domain for our client, Ethias, from Europe. 
+Our technology stack includes HTML and CSS for the front-end and Core Java, Spring MVC, Hibernate, and MySQL for
+ the back-end. To maintain our codebase, we use GitHub, and all our applications are Maven-based.
+
+Our team consists of 10 developers who are responsible for both front-end and back-end development. As a Java 
+developer on the team, my primary responsibilities include creating various classes and producing RESTful web
+services. We perform manual testing and fix bugs as needed and manage user requirements while providing timely 
+project updates. Additionally, I coordinate with the testing team to ensure a smooth delivery process.
+=============================================================================================================
+First of all, thank you for this opportunity. My name is Shubham Mondhoriya and I am currently working as a 
+Java developer at E-bio Tech Indian Private Ltd. I have 1.5 years of experience in Java development, during which
+ I have worked with various technologies such as Spring, Spring Boot, Hibernate, Java, and MySQL
+
+I am currently working on a project called "Intact" in the insurance domain for our client, Ethias, from Europe. 
+Our technology stack includes HTML and CSS for the front-end and Core Java, Spring MVC, Hibernate, and MySQL for
+ the back-end. To maintain our codebase, we use GitHub, and all our applications are Maven-based.
+
+Our team consists of 10 developers who are responsible for both front-end and back-end development. As a Java 
+developer on the team, my primary responsibilities include creating various classes and producing RESTful web
+services. We perform manual testing and fix bugs as needed and manage user requirements while providing timely 
+project updates. Additionally, I coordinate with the testing team to ensure a smooth delivery process.
+
+===========================================================
+Tell me flow of your project ?
+Fristly user send the request At user interfece then it will navigate rest controller
+or web services after that moove to service layer then navigate dao layer then comes to database
+
+Firstly, the user sends a request at the user interface. Then it navigates to the REST controller
+ or web services, which then moves to the service layer. After that, it navigates to the DAO layer
+ and finally reaches the database
+
+User sends a request to the web server through the user interface
+The request is handled by a REST controller or web service
+The controller or service interacts with the service layer
+The service layer interacts with the DAO layer
+The DAO layer interacts with the database

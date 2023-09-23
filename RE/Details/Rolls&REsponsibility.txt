@@ -1,0 +1,37 @@
+I am currently working on a project called "Intact" in the insurance domain for our client,
+ Ethias, from Europe. Our technology stack includes HTML and CSS for the front-end and Core 
+Java, Spring MVC, Hibernate, and MySQL forthe back-end. To maintain our codebase, we use GitHub,
+ and all our applications are Maven-based.
+
+"I am a Java developer on a team of 10 developers responsible for both front-end and
+ back-end development. My primary responsibilities include creating various classes,
+ implementing RESTful web services, working on CRUD operations, handling exceptions, 
+ and writing MySQL queries such as joins. In addition, I collaborate with the testing 
+ team to ensure a smooth delivery process."
+
+================================================
+Creating various pojo classes: In Java, classes are the building blocks of applications. As a 
+Java developer, I create classes that define the behavior and attributes of objects in the 
+application. These classes may include entities, data access objects, or service classes.
+
+Implementing RESTful web services: RESTful web services are a popular way to create APIs for 
+modern web applications. As a Java developer, I use the Spring framework to implement RESTful 
+web services, which enables clients to interact with the server using standard HTTP requests.
+
+Working on CRUD operations: CRUD stands for Create, Read, Update, and Delete, which are the
+ basic operations used in database management systems. As a Java developer, I work on the 
+implementation of CRUD operations for the application's database using Spring Data or other
+ related frameworks.
+
+Handling exceptions: Exception handling is an important part of developing robust applications. 
+As a Java developer, I ensure that the application handles exceptions gracefully and provides 
+appropriate error messages to users.
+
+Writing MySQL queries such as joins: MySQL is a popular open-source relational database management 
+system. As a Java developer, I write SQL queries to interact with the database, including complex 
+queries such as joins.
+
+Collaborating with the testing team: As a Java developer, I work closely with the testing team to 
+ensure that the application meets the requirements and quality standards. This includes reviewing
+ test cases, fixing bugs, and performing integration testing.
+====================================================================
